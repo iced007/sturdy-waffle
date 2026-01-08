@@ -2,4 +2,6 @@
 *.jar
 *~
 .DS_Store
+*.save
+manifest.txt
 
