@@ -19,9 +19,12 @@ and generates performance insights such as:
 - Console-based application
 
 ## How to Run
-```bash
+Compile the project:
 javac *.java
+
+Run the program:
 java Main
+
 
 Why this project?
 This project was built to practice real-world Java concepts like
